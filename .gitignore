@@ -1,0 +1,48 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Streamlit cache
+
+.streamlit/
+
+# VS Code / IDE
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Ignore raw large datasets (optional)
+
+# data/raw/
+
+# DO NOT IGNORE:
+
+# models/
+
+# data/cleaned/
